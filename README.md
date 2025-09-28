@@ -15,12 +15,12 @@ This version is designed to be used with the Afterbirth+ and Repentance DLCs.
 - A huge amount of custom options like:
 	- Indicators
 	- Font styles
-	- 17+ different Languages
+	- 18+ different Languages
 	- And a lot of visual options!
 - **Press F2 to hide/show the descriptions!**
 
 ## Supported Languages
-Chinese, Czech, Dutch, English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Spanish, Brazilian-Portuguese, Turkish, Ukrainian, Vietnamese
+Chinese, Czech, Dutch, English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Spanish, Brazilian-Portuguese, Turkish, Ukrainian, Vietnamese
 
 ## Versions
 There are multiple Versions of the mod, depending on which DLCs you have installed. You are currently looking at the version for Afterbirth+ and Repentance.
